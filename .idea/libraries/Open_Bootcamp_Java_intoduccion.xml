@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Open Bootcamp Java intoduccion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proyectocoche.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ejercicio  4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ejercicio 9 Herencia Git.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ejercicio 9 Herencia.zip!/" />
+      <root url="jar://$PROJECT_DIR$/proyectosuma.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Ejecicio 8 clase.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
